@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm Gregori Kempf</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
