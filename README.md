@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gregori Kempf</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A Computer Scientist from Brazil</h3>
+<h3 align="center">Graduating on UPF</h3>
 
 - 🔭 I’m currently working on **C++ Projects**
 
