@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Extension Projects**
 
-- 👨‍💻 All of my projects are available at [My Git](My Git)
+- 👨‍💻 All of my projects are available at GregKmpf
 
 - 💬 Ask me about **anything**
 
